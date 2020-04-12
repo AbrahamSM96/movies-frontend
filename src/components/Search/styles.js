@@ -2,9 +2,8 @@ import styled from 'styled-components';
 
 export const Container = styled.div`
   display: flex;
-  justify-content: center;
+  justify-content: space-around;
   align-items: center;
-  flex-direction: column;
 `;
 
 export const H1 = styled.h1`
@@ -14,7 +13,7 @@ export const H1 = styled.h1`
 `;
 
 export const Input = styled.input`
-  width: 180px;
+  width: 165px;
   height: 34px;
   padding-left: 8px;
   color: #ffffff;

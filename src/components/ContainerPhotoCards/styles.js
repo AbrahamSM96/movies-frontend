@@ -1,8 +1,7 @@
 import styled from 'styled-components';
 
 export const DivContainerPhotoCards = styled.div`
-  height: 60vh;
-`;
+    height: 25em;`;
 
 export const H2 = styled.h2`
   color: white;

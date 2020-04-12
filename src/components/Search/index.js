@@ -10,7 +10,7 @@ const Search = ({ searchMovie }) => {
 
   return (
     <Container>
-      <H1>Search your movie </H1>
+      <H1>Search movie</H1>
       <Input
         type='text'
         name='Searcher'

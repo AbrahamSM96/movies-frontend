@@ -25,6 +25,9 @@ export const GlobalStyle = createGlobalStyle`
     /* evita que haga rebotes el scroll */
     overscroll-behavior: none;
     width: 100%; 
+    ::-webkit-scrollbar {
+    display: none;
+}
   }
 
 

@@ -22,8 +22,8 @@ export const Carousel = styled(CarouselDiv)`
     bottom: 0;
     margin: 10px 0;
     text-align: center;
-    width: 100%;
-    left: 100px;
+    width: 180%;
+    left: 80px;
   }
 `;
 
