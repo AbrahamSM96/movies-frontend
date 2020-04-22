@@ -1,17 +1,35 @@
-# curso-platzi-react-avanzado ⚛️
+# MovieMon ⚛️
 
 # Movies-PWA-react
 
-This project use React JS, Hooks, Graphql, Webpack, Cypress, Now.
+This is a PWA mobile first where you can search your any movie and tv series, create a list and add your favorites movies or tv series. The list will be save in the LocalStorage.
+The tecnologies uses in this project:
+*ReactJS
+*Hooks
+*Graphql
+*Webpack
+*Cypress
+*Now
+*React/router
+*Redux
+*Localstorage
 
-## Comenzando 🚀
+## Getting Started 🚀
 
-_The these instructions can we clone the project in your repositories._
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-### Instalación 🔧
+### Prerequisites 📋
+
+You need have a NodeJS installed
+
+### Installing 🔧
 
 _After cloning the repository, you should use this command_
 
 ```
 npm i
 ```
+
+## Deployment 📦
+
+_View the documentation in Now or other_
